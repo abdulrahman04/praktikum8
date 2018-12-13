@@ -1,4 +1,6 @@
-# praktikum8##latihan1.cpp : Buatlah algoritma untuk menentukan nilai maksimum dan nilai minimum dari n bilangan bulat dengan menggunakan array.
+# praktikum8
+
+##latihan1.cpp : Buatlah algoritma untuk menentukan nilai maksimum dan nilai minimum dari n bilangan bulat dengan menggunakan array.
 
 **Alur algoritma**
 1. Mendeklarasikan variabel 'int nilai[3],a,min,maks;' sebagai variable input.
